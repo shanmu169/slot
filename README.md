@@ -27,7 +27,11 @@ Add your course schedule using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+<<<<<<< HEAD
 ```
+=======
+
+>>>>>>> ce5c23670092efceaf8c1633d781bb655980d468
 <html>
     <body>
         <img src="logo.png" width="1000" height="200" title="SEC logo">
@@ -111,6 +115,10 @@ Execute the program using runserver command.
 </html>
 ```
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ce5c23670092efceaf8c1633d781bb655980d46
 
 
 ## OUTPUT
